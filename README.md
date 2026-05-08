@@ -133,19 +133,7 @@ electronics-ecommerce-system/
 
 ---
 
-# 🛠️ Technologies Used
 
-<div align="center">
-
-| Frontend | Design | Tools |
-|---|---|---|
-| HTML | UML Modeling | Git |
-| CSS | System Analysis | GitHub |
-| JavaScript | Software Engineering | Draw.io |
-
-</div>
-
----
 
 # 📚 Software Engineering Concepts Applied
 
@@ -165,16 +153,6 @@ electronics-ecommerce-system/
 
 ---
 
-# 🚀 Future Improvements
-
-- 🛍️ Full backend implementation
-- 💳 Online payment integration
-- 📱 Responsive UI/UX
-- 🤖 AI-powered recommendations
-- 🔐 Authentication & Security
-- ☁️ Database integration
-
----
 
 # 👨‍🎓 Academic Information
 
